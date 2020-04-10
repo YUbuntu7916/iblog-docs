@@ -8,7 +8,7 @@
   [![Codacy Badge](https://api.codacy.com/project/badge/Grade/44749edf16074f458f7e9aa84f0a0413)](https://app.codacy.com/manual/gentleman_0109/iblog-azure-test?utm_source=github.com&utm_medium=referral&utm_content=YUbuntu0109/iblog-azure-test&utm_campaign=Badge_Grade_Dashboard)
   [![Total alerts](https://img.shields.io/lgtm/alerts/g/YUbuntu0109/iblog-azure-test.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/YUbuntu0109/iblog-azure-test/alerts/)
 
-* **CI/CD** & **QUALITY** & **SECURITY**
+* ✅**CI/CD** & 🏆**QUALITY** & 🔐**SECURITY** & 📖**DOCS**
 
 [GitHub repo](https://github.com/yubuntu0109/iblog/)
 [Getting Started](#guide)
