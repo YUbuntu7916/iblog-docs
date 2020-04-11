@@ -10,6 +10,7 @@
 |--------------------|-------------|-------|
 |[https://prod.iblog.run](http://49.233.79.152:8080/prod/iblog) | master | hosting production version of the iblog project  |
 |[https://dev.iblog.run](http://49.233.79.152:8081/dev/iblog)   | dev    | hosting staging version of the iblog project     |
+|[https://test.iblog.run](http://49.233.79.152:8082/test/iblog) | test   | hosting testing version of the iblog project     |
 |[http://localhost:8081](http://localhost:8081)                 | dev    | for developers to debug or run locally           |
 
 > *for more informations please refer to this [project](https://github.com/YUbuntu0109/iblog-azure-test)*
